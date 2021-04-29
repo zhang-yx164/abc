@@ -1,6 +1,6 @@
 # abc
 [abc2](abc2.md)
-
+[link to abc2.md](./abc2.md)
 ## 111
 #### 222
 *356*
